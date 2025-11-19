@@ -23,3 +23,29 @@ KOOK은 계속해서 세계로 나아가는 K-FOOD를 내 집에 있는 재료�
 <br/>
 
 ## ⚙️ Tech Stack
+
+### Frontend & Design
+| 역할 | 종류 |
+|---|---|
+| **Framework** | ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white) |
+| **Language** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)  |
+| **Build Tool / Dev Server** | ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
+| **Styling** | ![Vanila extract](https://img.shields.io/badge/vanillaextract-F786AD.svg?style=for-the-badge&logo=vanillaextract&logoColor=white) |
+| **Data Fetching & Server State** | ![Tanstack Query](https://img.shields.io/badge/tanstackquery-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white) |
+| **HTTP Client** | ![Axios](https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white) |
+| **UI / Design System** | ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+
+### Backend & Data/Model
+| 역할 | 종류 |
+|---|---|
+| **Framework** | ![Fast API](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Database** | ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Data Processing** | ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white), ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| **AI Orchestration** | ![LangChain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) |
+| **LLM Model Platform** | ![AWS Bedrock](https://img.shields.io/badge/AWSBedrock-08A288.svg?style=for-the-badge&logo=AWSBedrock&logoColor=white) |
+| **Storage** | ![AWS S3](https://img.shields.io/badge/AWSS3-E25444.svg?style=for-the-badge&logo=AWSS3&logoColor=white) |
+| **Infrastructure / Deployment** | ![AWS EC2](https://img.shields.io/badge/AWSEC2-F18707.svg?style=for-the-badge&logo=AWSEC2&logoColor=white) |
+
+<br/>
+
+## 🔎 About KOOK
