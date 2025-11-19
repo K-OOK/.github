@@ -49,3 +49,14 @@ KOOK은 계속해서 세계로 나아가는 K-FOOD를 내 집에 있는 재료�
 <br/>
 
 ## 🔎 About KOOK
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f708ce34-4d99-4108-bfb8-f69727bbe21c" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/000f3442-c622-4d03-a18f-10b35b1f3a0e" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/9677254e-cfe2-43d1-a777-6711d2127544" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/0f91e70d-cc4a-48bf-8daa-84190b891fbd" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/5be4c7b0-ef5a-498a-a6bd-f7377db0c977" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/7b83c9e0-599c-498a-88ff-d723a1745778" />
+<img width="1920" height="1080" alt="27" src="https://github.com/user-attachments/assets/3fd1cae8-ec2f-4b71-95ca-b91ab356c013" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/70606c7b-e526-4978-b5ec-8720c611361c" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/26233596-a1bb-4004-b1e1-519f2aff98cb" />
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/f9a36890-8514-4d21-b265-3e95b0fee968" />
+
