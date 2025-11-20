@@ -50,7 +50,6 @@ KOOK은 계속해서 세계로 나아가는 K-FOOD를 내 집에 있는 재료�
 
 ## 🔎 About KOOK
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f708ce34-4d99-4108-bfb8-f69727bbe21c" />
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/000f3442-c622-4d03-a18f-10b35b1f3a0e" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/9677254e-cfe2-43d1-a777-6711d2127544" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/0f91e70d-cc4a-48bf-8daa-84190b891fbd" />
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/5be4c7b0-ef5a-498a-a6bd-f7377db0c977" />
